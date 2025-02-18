@@ -19,6 +19,6 @@
 
 <ul id='menu' style="list-style-type: none;">
   <li><a href="#introducao">Introdução</a></li>
-  <li><a href="#topo">Topo</a></li>
+  <li><a href="#topo">Top</a></li>
 </ul>
 
